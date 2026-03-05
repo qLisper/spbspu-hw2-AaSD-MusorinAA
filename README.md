@@ -1,1 +1,1 @@
-# spbspu-hw2-AaSD-MusorinAA
+Вариант I unique
